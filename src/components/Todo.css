@@ -1,0 +1,22 @@
+.todo-title {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.todo-container {
+  width: 600px;
+  padding: 10px;
+  background-color: var(--bg-secondary);
+  box-shadow: var(--shadow);
+  border-radius: 10px;
+}
+
+.todo-toggle {
+  display: flex;
+  justify-content: center;
+}
+
+.todo-toggle button {
+  margin: 10px 2.5px;
+}

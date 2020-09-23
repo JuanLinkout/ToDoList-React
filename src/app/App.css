@@ -1,0 +1,27 @@
+:root {
+  --shadow: 0 5px 23px 0 rgba(0, 0, 0, 0.267);
+  --bg-color: #121212;
+  --bg-secondary: #2f2f2f;
+  --bg-terciary: #1d1d1d;
+  --color: #ffffff;
+  --primary-color:#BB86FC;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(../assets/fonts/roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../assets/fonts/roboto/Roboto-Bold.ttf);
+}
+
+body {
+  background-color: var(--bg-color);
+  font-family: Roboto;
+  height: 100vh;
+  display: flex;
+  padding: 50px;
+  justify-content: center;
+}

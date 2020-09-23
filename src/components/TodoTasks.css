@@ -1,0 +1,29 @@
+.todo-tasks {
+  padding: 10px;
+}
+
+.todo-item-container {
+  display: flex;
+  padding: 10px;
+  margin: 5px;
+  background-color: var(--bg-terciary);
+  border-radius: 4px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todo-item {
+  color: white;
+  display: flex;
+  align-items: center;
+  width: 80%;
+}
+
+.todo-item span {
+  overflow: hidden;
+}
+
+.complete {
+  text-decoration: line-through;
+  color: rgb(195, 195, 195);
+}
