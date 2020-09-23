@@ -1,17 +1,17 @@
 # Todo List
 - Projeto desenvolvido em React com o intuito de fixar os conhecimentos. Nesse projeto foram utilizadas as bibliotecas Material Ui, para a parte de interface da todo list, e a biblioteca flip move para as animações da tabela.
 - Esse projeto conta com as seguintes funcionalidades:
-- [x] Adicionar nova tarefa
-- [x] Remover tarefa
-- [x] Marcar tarefa como concluida
-- [x] Visualização de: todas tarefas, tarefas concluidas e tarefas restantes.
+  - Adicionar nova tarefa
+  - Remover tarefa
+  - Marcar tarefa como concluida
+  - Visualização de: todas tarefas, tarefas concluidas e tarefas restantes.
 
 ## Imagens do projeto
 - Todos
-![image](https://user-images.githubusercontent.com/36827804/93950543-2500ae00-fd1a-11ea-92dd-9cb3b9e809fd.png)
+![Todos](https://user-images.githubusercontent.com/36827804/93950837-ffc06f80-fd1a-11ea-8a16-ed6b6c7b0466.png)
 
 - Concluidos
-![image](https://user-images.githubusercontent.com/36827804/93950575-3d70c880-fd1a-11ea-87bd-f5b2d6e71d54.png)
+![Concluidos](https://user-images.githubusercontent.com/36827804/93950905-35fdef00-fd1b-11ea-9f12-3ab02160f13e.png)
 
 - Restantes
-![image](https://user-images.githubusercontent.com/36827804/93950596-495c8a80-fd1a-11ea-829f-772a56b47657.png)
+![Restantes](https://user-images.githubusercontent.com/36827804/93950932-4dd57300-fd1b-11ea-9925-c523e074d8a0.png)
